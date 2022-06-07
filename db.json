@@ -1,0 +1,17 @@
+{
+    "animals": 
+    {
+      "id": 1,
+      "name": "Red panda",
+      "image": "https://i.imgur.com/VI6Vh88.png",
+      "description":"Adult pandas are so large that they do not have many natural enemies. Snow leopards, however, will prey on vulnerable panda cubs or old and sick adult pandas."
+    },
+
+    {
+     "id": 2,
+     "name": "Raccon",
+     "image": "https://i.some-random-api.ml/xnATuponsc.png",
+     "description":"Giant pandas have evolved a unique “thumb” which they use to hold bamboo stalks. This thumb is actually a modified wrist bone."
+   }
+   
+   },

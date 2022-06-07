@@ -4,20 +4,26 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+   <link rel="stylesheet" href="./"main.css" />
+   <Script src="index.js"></Script>
+   <title>Document</title>
 </head>
 <body>
+    <header id="menu"></header>
     <h1>Random API Animals</h1> 
-     <u1></u1>
-    <script>
-        fetch("https://some-random-api.ml/animal/red_panda",)
-        .then(response =>response.json())
-        .then(json => {
+</header>
+     <div class="container">
+     <form id="animal-form">
+     <label for="name"></label>
+     <input type="text" id="name" name="/>
+     <textrarea id="description" name="description"></textrarea>
+     <button type="submit">Red panda</button>
+     </form>
+     <u1 id="animal-list" class="cards">
+         <ul id="animal-list" class="cards">
+         </ul>
+        </div>
+        </body>
        
-        document.querySelector("u1").innerHTML
-        console.log(json);
-    });   
-        </script> 
-   
 </body>
 </html>

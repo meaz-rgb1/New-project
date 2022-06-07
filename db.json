@@ -1,5 +1,5 @@
 {
-    "animals": 
+    "animals": [
     {
       "id": 1,
       "name": "Red panda",
@@ -13,5 +13,5 @@
      "image": "https://i.some-random-api.ml/xnATuponsc.png",
      "description":"Giant pandas have evolved a unique “thumb” which they use to hold bamboo stalks. This thumb is actually a modified wrist bone."
    }
-   
-   },
+  ]
+   }
